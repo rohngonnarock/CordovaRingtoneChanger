@@ -1,0 +1,31 @@
+{
+  "name": "ringtone-changer",
+  "version": "0.0.1",
+  "description": "Ringtone Changer Plugin",
+  "cordova": {
+    "id": "cordova-plugin-ringtone-changer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohngonnarock/CordovaRingtoneChanger.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova",
+    "ringtone",
+    "android",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Rahul Prajapati",
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+  "bugs": {
+    "url": "https://github.com/rohngonnarock/CordovaRingtoneChanger/issues"
+  },
+  "homepage": "https://github.com/rohngonnarock/CordovaRingtoneChanger#readme"
+}
